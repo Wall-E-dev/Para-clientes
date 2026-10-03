@@ -42,5 +42,7 @@ Estas tres reglas aplican a **todo** el material de este paquete (guiones y flye
 
 ## 4. Qué construye este paquete
 
+**Alcance del plan:** 2 guiones de video + 5 flyers — no se agrega material fuera de este alcance.
+
 - `01-Guiones-de-anuncios-v2.md` — 2 guiones de video (Reels/TikTok/Stories) para las dos campañas con mejor comerciabilidad: Pack PC completa (hogar y estudiantes) y ESET por volumen (técnicos y revendedores).
-- `02-Propuesta-de-flyers-v2.md` — 6 flyers estáticos para Meta, organizados por regla de marca (genéricos sin logo vs. marca libre), cubriendo los 3 perfiles de comprador del estudio.
+- `02-Propuesta-de-flyers-v2.md` — 5 flyers estáticos para Meta, organizados por regla de marca (genéricos sin logo vs. marca libre), cubriendo los 3 perfiles de comprador del estudio.
