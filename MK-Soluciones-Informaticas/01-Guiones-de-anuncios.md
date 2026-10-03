@@ -30,7 +30,7 @@ Se priorizan las dos campañas con mejor puntaje de comerciabilidad (Packs PC co
 
 **ESCENA 3 — Confianza (13–19 s)**
 *Visual:* captura simulada de chat de WhatsApp mostrando "factura" y "soporte".
-*Voz en off:* "Con factura y soporte por WhatsApp. Atendemos de lunes a sábado, de 9:15 am a 8 pm."
+*Voz en off:* "Con factura y soporte por WhatsApp. Atendemos de lunes a sábado, de 9:15 am a 7:55 pm."
 
 **ESCENA 4 — Cierre / CTA (19–25 s)**
 *Visual:* botón de WhatsApp animado + texto grande.
@@ -64,8 +64,8 @@ Se priorizan las dos campañas con mejor puntaje de comerciabilidad (Packs PC co
 
 **ESCENA 2 — Desarrollo / oferta (3–10 s)**
 *Visual:* logo de ESET + contador animado "6+ licencias" → "20+ licencias" con el precio bajando.
-*Voz en off:* "Desde 6 licencias ESET, con precio por volumen. Protege hasta 10 dispositivos por licencia."
-*Texto en pantalla:* "ESET por volumen · Protege hasta 10 dispositivos"
+*Voz en off:* "Desde 6 licencias ESET NOD32, precio especial por volumen: S/22 por licencia desde 6, S/20 desde 20."
+*Texto en pantalla:* "ESET por volumen · Desde S/20 por licencia"
 
 **ESCENA 3 — Confianza (10–15 s)**
 *Visual:* captura simulada de WhatsApp con "factura" y "entrega inmediata".

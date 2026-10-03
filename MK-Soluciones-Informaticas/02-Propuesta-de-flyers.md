@@ -41,7 +41,7 @@ Se proponen **5 flyers** (ajustado al plan contratado), agrupados en dos bloques
 - **Visual:** logo ESET + ícono de "x6" / "x20" licencias.
 - **Titular:** "Precio especial para técnicos desde 6 licencias"
 - **Subtítulo:** "Entrega inmediata · Factura · Soporte por WhatsApp"
-- **Precio:** por volumen (6+ y 20+, consultar tabla)
+- **Precio:** S/ 22 por licencia desde 6 unidades · S/ 20 por licencia desde 20 unidades (ESET NOD32)
 - **Pie / CTA:** "Escríbenos por WhatsApp y te enviamos el catálogo completo"
 - **Público:** técnicos y revendedores (perfil Luis).
 

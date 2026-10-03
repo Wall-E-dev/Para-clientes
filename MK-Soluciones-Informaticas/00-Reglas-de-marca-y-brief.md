@@ -19,7 +19,7 @@ MK Soluciones Informáticas **vende licencias de software**, no repara ni da man
 
 **Zona de atención:** Lima y todo el Perú, venta 100 % online (no hay tienda física).
 **Clientes:** empresas (con factura, licencias por volumen) y técnicos/usuarios finales.
-**Atención WhatsApp:** lunes a sábado, 9:15 am a 8:00 pm.
+**Atención WhatsApp:** lunes a sábado, 9:15 am a 7:55 pm.
 **Presupuesto de pauta:** S/ 600 al mes.
 **Competencia directa:** revendedores de licencias en Meta Ads (3Clics Perú, Supertecpe, PC-Segura, TechLicense, KEY SALE PERÚ, Activatusoftware, Virtual Keys, G-Licenses, DxSystem Store) — **no** negocios de mantenimiento/soporte técnico de laptops.
 
