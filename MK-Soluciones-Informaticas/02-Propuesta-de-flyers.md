@@ -1,6 +1,6 @@
-# MK Soluciones Informáticas — Propuesta de flyers (v2)
+# MK Soluciones Informáticas — Propuesta de flyers
 
-**Referencia:** EST-MKS-3009-v2 · **Formato:** imagen estática, 1080×1350 (4:5) para feed/Stories de Meta
+**Referencia:** EST-MKS-3009 · **Formato:** imagen estática, 1080×1350 (4:5) para feed/Stories de Meta
 **Regla de marca aplicada:** ver `00-Reglas-de-marca-y-brief.md`.
 
 Se proponen **5 flyers** (ajustado al plan contratado), agrupados en dos bloques según las reglas de marca vigentes para esta tanda. **Todos** llevan la misma línea de cierre obligatoria: *"Escríbenos por WhatsApp y te enviamos el catálogo completo"*.
@@ -55,15 +55,10 @@ Se proponen **5 flyers** (ajustado al plan contratado), agrupados en dos bloques
 
 ---
 
-## Fuera de esta tanda (no entra en el plan de 5 flyers)
-
-- **CorelDRAW** y el **pack de arquitectura (Autodesk)** quedan fuera por alcance del plan contratado, no por regla de marca — ambos siguen con marca libre si en una futura tanda se arma esa pieza.
-- **Flyer de arquitectura (Autodesk + suite de oficina):** además del límite de alcance, el estudio v2 marcó una alerta sobre la licencia de Autodesk que MK vende a S/ 25 anual a correo personal — es necesario confirmar que **no es una licencia educativa**, porque Autodesk no permite uso comercial en ese caso. No se producirá hasta tener ambas cosas: cupo en el plan y esa confirmación.
-
 ## Checklist de cumplimiento para diseño (aplica a los 5 flyers)
 
 - [ ] Sin logo ni nombre oficial de Microsoft, Windows u Office en Flyers 1 y 2.
 - [ ] Logo de ESET y Canva usados tal cual (marca libre) en Flyers 2, 3, 4 y 5.
 - [ ] Línea "Escríbenos por WhatsApp y te enviamos el catálogo completo" presente en los 5 flyers.
-- [ ] Ningún flyer promete "de por vida" ni resultados no verificados (según alertas del estudio).
+- [ ] Ningún flyer promete "de por vida" ni resultados no verificados.
 - [ ] Precios tomados de la lista oficial de MK 2026.

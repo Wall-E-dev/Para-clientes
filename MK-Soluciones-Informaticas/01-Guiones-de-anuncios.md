@@ -1,9 +1,9 @@
-# MK Soluciones Informáticas — Guiones de anuncios en video (v2)
+# MK Soluciones Informáticas — Guiones de anuncios en video
 
-**Referencia:** EST-MKS-3009-v2 · **Formato:** Reels / Stories / TikTok, 9:16
+**Referencia:** EST-MKS-3009 · **Formato:** Reels / Stories / TikTok, 9:16
 **Regla de marca aplicada:** ver `00-Reglas-de-marca-y-brief.md` antes de grabar o editar.
 
-Se priorizan las dos campañas con mejor puntaje de comerciabilidad del estudio (Packs PC completa/Oficina: 85 · ESET por volumen: 82), que cubren el 75 % del público objetivo (hogar/estudiantes 35 % + técnicos/revendedores 25 %, más pymes que compran el mismo pack).
+Se priorizan las dos campañas con mejor puntaje de comerciabilidad (Packs PC completa/Oficina: 85 · ESET por volumen: 82), que cubren el 75 % del público objetivo (hogar/estudiantes 35 % + técnicos/revendedores 25 %, más pymes que compran el mismo pack).
 
 ---
 
