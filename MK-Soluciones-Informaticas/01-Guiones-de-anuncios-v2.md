@@ -39,7 +39,7 @@ Se priorizan las dos campañas con mejor puntaje de comerciabilidad del estudio 
 
 ### Indicaciones de producción
 - No incluir el logo de Microsoft, Windows u Office en ningún fotograma, miniatura ni thumbnail del anuncio.
-- El logo de ESET puede mostrarse; confirmaremos con la clienta si MK es revendedor autorizado ESET y, si no hay certeza, usamos solo el nombre en texto, sin el isotipo.
+- El logo de ESET puede mostrarse; es necesario confirmar si MK es revendedor autorizado ESET y, si no hay certeza, usar solo el nombre en texto, sin el isotipo.
 - No usar la frase "de por vida" para Windows/Office; usar "con garantía de activación".
 - Música: upbeat, corta, sin copyright (banco de Meta o CapCut).
 - CTA final obligatorio en pantalla y voz: catálogo completo por WhatsApp.
