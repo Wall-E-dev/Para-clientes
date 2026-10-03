@@ -37,7 +37,7 @@ Estas tres reglas aplican a **todo** el material de este paquete (guiones y flye
 ## 3. Alertas heredadas del estudio que siguen vigentes
 
 - **No prometer "de por vida"** en Windows/Office si no está garantizado: la copy usa "licencia con garantía de activación", no "de por vida".
-- **Autodesk a correo personal (S/ 25 anual):** antes de activar el flyer de arquitectura, confirmar con la clienta que la licencia no es educativa (uso comercial no permitido por Autodesk en ese caso). Marcado como pendiente en la propuesta de flyers.
+- **Autodesk a correo personal (S/ 25 anual):** antes de activar el flyer de arquitectura, confirmaremos con la clienta que la licencia no es educativa (uso comercial no permitido por Autodesk en ese caso). Lo dejamos marcado como pendiente en la propuesta de flyers.
 - Packs como producto principal para subir ticket (S/ 95–115) frente a vender una licencia suelta (desde S/ 25).
 
 ## 4. Qué construye este paquete

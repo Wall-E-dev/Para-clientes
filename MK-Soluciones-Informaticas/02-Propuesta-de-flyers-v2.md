@@ -58,7 +58,7 @@ Se proponen **5 flyers** (ajustado al plan contratado), agrupados en dos bloques
 ## Fuera de esta tanda (no entra en el plan de 5 flyers)
 
 - **CorelDRAW** y el **pack de arquitectura (Autodesk)** quedan fuera por alcance del plan contratado, no por regla de marca — ambos siguen con marca libre si en una futura tanda se arma esa pieza.
-- **Flyer de arquitectura (Autodesk + suite de oficina):** además del límite de alcance, el estudio v2 marcó una alerta sobre la licencia de Autodesk que MK vende a S/ 25 anual a correo personal — hay que confirmar con la clienta que **no es una licencia educativa**, porque Autodesk no permite uso comercial en ese caso. No se recomienda producirlo hasta tener ambas cosas: cupo en el plan y esa confirmación.
+- **Flyer de arquitectura (Autodesk + suite de oficina):** además del límite de alcance, el estudio v2 marcó una alerta sobre la licencia de Autodesk que MK vende a S/ 25 anual a correo personal — confirmaremos con la clienta que **no es una licencia educativa**, porque Autodesk no permite uso comercial en ese caso. No lo vamos a producir hasta tener ambas cosas: cupo en el plan y esa confirmación.
 
 ## Checklist de cumplimiento para diseño (aplica a los 5 flyers)
 
